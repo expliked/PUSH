@@ -5,10 +5,18 @@
 
 using namespace std;
 
+
+
 /*
-* excuse the messy code, please. i'm new to C++.
-* PUSH made by expliked.
+* excuse the messy code, please.
+* 
+* i'm not really expecting anyone to work on this alongside me
+* so i'm just gonna throw down code and make it work.
+*
+* "PUSH" made by expliked.
 */
+
+
 
 bool is_number(const std::string& s) {
     std::string::const_iterator it = s.begin();
