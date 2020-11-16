@@ -13,6 +13,8 @@ using namespace std;
 * i'm not really expecting anyone to work on this alongside me
 * so i'm just gonna throw down code and make it work.
 *
+* (im also only a beginner/intermediate C++ user. My main language is Python.)
+*
 * "PUSH" made by expliked.
 */
 
