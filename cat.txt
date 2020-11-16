@@ -1,0 +1,4 @@
+INPUT;
+WHILE;
+	PULL;
+END
