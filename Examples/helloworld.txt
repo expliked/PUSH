@@ -14,6 +14,6 @@ PUSH: 33;
 PUSH: 10;
 
 [Output all characters:]
-WHILE;
+DO;
 PULL;
-END;
+WHILE;
