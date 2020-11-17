@@ -154,13 +154,13 @@ int ExecuteCode(string code, string filename) {
 			}
 			token = "";
 		}
-		if (token == "WHILE;") {
+		if (token == "DO;") {
 			statementNumber += 1;
 			whileLocation = i;
 			token = "";
 
 		}
-		if (token == "END;") {
+		if (token == "WHILE;") {
 			statementNumber += 1;
 			token = "";
 			if (memory.back()) {
